@@ -1,0 +1,5 @@
+Formatting decimal places #1.
+https://www.codewars.com/users/Kseniia%20Sydorenko/completed
+function twoDecimalPlaces(number) {
+  return Math.trunc(number*100)/100;
+}
